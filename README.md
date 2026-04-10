@@ -84,5 +84,5 @@ This project strictly follows the **Theme 2: AI Predictive Forecasting** guideli
 While the final codebase was compiled and pushed via a single repository manager to maintain strict Git DCO and Single-Email compliance, this project was a full collaborative effort by a team of 4:
 * **Aditya:** Data Engineering & Synthetic Data Generation.
 * **Omkar:** Machine Learning (Meta Prophet integration & Logic).
-* **[Teammate 3 Name]:** UI/UX Design & LLM Prompt Engineering.
+* **Mehul:** UI/UX Design & LLM Prompt Engineering.
 * **Aryan:** Repository Architecture, Code Integration, & Open-Source Compliance.
